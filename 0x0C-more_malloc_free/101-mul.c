@@ -19,6 +19,7 @@ int is_digit(char *s)
 	}
 	return (1);
 }
+
 /**
  * _strlen - returns the length of a string
  * @s: string to evaluate
